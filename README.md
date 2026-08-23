@@ -93,3 +93,6 @@ so it deploys natively on **Streamlit Community Cloud**:
   with the same schema with minor column renaming)
 - Add basket/market association analysis (which products are bought together)
 - Add a forecasting tab (moving average or exponential smoothing on monthly revenue)
+
+- Deployment issue
+- Link: https://retailanalytics-ktw3tbknpcmcxkb2fycxpk.streamlit.app/
