@@ -94,5 +94,4 @@ so it deploys natively on **Streamlit Community Cloud**:
 - Add basket/market association analysis (which products are bought together)
 - Add a forecasting tab (moving average or exponential smoothing on monthly revenue)
 
-- Deployment issue
-- Link: https://retailanalytics-ktw3tbknpcmcxkb2fycxpk.streamlit.app/
+
