@@ -75,6 +75,8 @@ streamlit run app.py
 - Three tabs: Sales Overview, RFM Segmentation (with a per-segment customer explorer),
   and Cohort Retention heatmap
 
+  Deployment link: https://retailanalytics-ktw3tbknpcmcxkb2fycxpk.streamlit.app/
+
 ## Deployment
 This is a **Streamlit** app (uses `st.cache_data`, `st.pyplot`, interactive widgets),
 so it deploys natively on **Streamlit Community Cloud**:
